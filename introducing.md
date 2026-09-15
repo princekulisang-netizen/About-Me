@@ -10,14 +10,7 @@ A multidisciplinary technology professional with expertise in AI Prompt Engineer
 
 Core Skills:
 
-• AI Prompt Engineer
-• DBMS Design 
-• Microservice Design 
-• API System Maintenance 
-• Data Scientist 
-• Data Analyst 
-• AI & Machine Learning Engineer 
-• Software Engineer
+AI Prompt Engineer, DBMS Design, Microservice Design, API System Maintenance, Data Scientist, Data Analyst, AI & Machine Learning Engineer, & Back-end Software Engineer
 
 * 🌍  I'm based in Indonesian
 * ✉️  You can contact me at [princekulisang@gmail.com](mailto:princekulisang@gmail.com)
