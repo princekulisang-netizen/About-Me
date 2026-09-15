@@ -19,6 +19,7 @@ Core Skills:
 * AI & Machine Learning Engineer
 * Back-end Software Engineer
 
+----------------------------------------------
 * 🌍  I'm based in Indonesian
 * ✉️  You can contact me at [princekulisang@gmail.com](mailto:princekulisang@gmail.com)
 * 🧠  I'm currently learning SQL, Python, agentic AI, CI/CD (Jenkins/GitLab), React, Vue, Next.js, Node.js, REST API, GraphQL, SQL, NoSQL, Git, risk management, basic tech knowledge (cloud/API), cryptography, and API integration
