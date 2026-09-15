@@ -10,7 +10,7 @@ A multidisciplinary technology professional with expertise in AI Prompt Engineer
 
 Core Skills:
 
-• AI Prompt Engineer 
+• AI Prompt Engineer
 • DBMS Design 
 • Microservice Design 
 • API System Maintenance 
